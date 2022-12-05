@@ -12,7 +12,7 @@ namespace LinqInformation // Note: actual namespace depends on the project name.
                 new Category{CategoryId=2, CategoryName="Phone"}
             };
 
-            categories.
+            //categories.
 
             List<Product> products = new List<Product> {
             new Product{ProductId=1, CategoryId=1, ProductName="Apple Notebook", QuantityPerUnit="4 GB Ram", UnitPrice=10000, UnitsInStock=5},
